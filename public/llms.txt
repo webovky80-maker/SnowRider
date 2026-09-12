@@ -1,0 +1,25 @@
+# Snow Rider 3D Unblocked
+
+> Play Snow Rider 3D unblocked online for free in your browser. The premier 3D downhill winter bobsled runner game with endless procedural slopes, gift collection, unlockable sleds, and 60 FPS WebGL performance.
+
+## Core Features
+- Full-screen responsive 3D WebGL gameplay
+- Works on school Chromebooks and restricted networks without VPNs
+- Unlock 6+ unique sleds with varying speed, handling, and jump stats
+- Procedural alpine mountain generation with pine trees, rolling snowballs, and chasms
+- Zero downloads, zero accounts, zero intrusive pop-ups
+
+## Controls
+- Steer Left: Left Arrow or A
+- Steer Right: Right Arrow or D
+- Jump / Hop: Up Arrow, W, or Spacebar
+- Pause: P or Esc
+- Restart: R
+
+## Key URLs
+- Homepage & Game Player: https://snowrider-unblocked.com/
+- Gameplay Guide & Controls: https://snowrider-unblocked.com/how-to-play
+- About Us: https://snowrider-unblocked.com/about
+- Contact & Bug Reports: https://snowrider-unblocked.com/contact
+- Privacy Policy: https://snowrider-unblocked.com/privacy
+- Terms of Service: https://snowrider-unblocked.com/terms
